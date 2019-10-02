@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1570047239252' stop='1570047239276'>
+    <name>AuthorsComponent</name>
+    <title>AuthorsComponent</title>
+    <test-cases>
+        <test-case start='1570047239252' status='passed' stop='1570047239276'>
+            <name>should create</name>
+            <title>should create</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 77.0.3865 (Windows 10.0.0)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

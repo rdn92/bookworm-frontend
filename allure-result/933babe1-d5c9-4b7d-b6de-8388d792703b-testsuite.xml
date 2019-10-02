@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1570047239196' stop='1570047239292'>
+    <name>AppComponent</name>
+    <title>AppComponent</title>
+    <test-cases>
+        <test-case start='1570047239196' status='passed' stop='1570047239228'>
+            <name>should have as title 'bookworm-frontend'</name>
+            <title>should have as title 'bookworm-frontend'</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 77.0.3865 (Windows 10.0.0)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1570047239238' status='passed' stop='1570047239252'>
+            <name>should create the app</name>
+            <title>should create the app</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 77.0.3865 (Windows 10.0.0)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
