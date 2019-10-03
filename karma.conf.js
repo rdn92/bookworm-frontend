@@ -25,7 +25,7 @@ module.exports = function (config) {
     },
     reporters: ['progress', 'allure'],
     allureReport: {
-      reportDir: 'allure-report',
+      reportDir: 'allure-results',
       useBrowserName: false,
     },
     port: 9876,
